@@ -1,0 +1,127 @@
+#navbar {
+    height: 40px;
+}
+.text1 {
+
+    margin-top: 20px;
+    padding-left: 83px;
+    /* Thrissur Works together at TIP. */
+
+    width: 594px;
+    height: 130px;
+    font-size: 40px;
+    line-height: 65px;
+
+    color: #212121;
+
+
+}   
+#tpsub{
+    justify-content: space-evenly;
+    padding-left: 86px;
+    width: 647px;
+    height: 130px;
+    word-spacing: 5px;
+    line-height: 33.46px;
+    font-weight: 400;
+    font-size: 18px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    
+}
+
+#headerimg {
+    margin-top: 20px;
+    width: 507px;
+    height: 340px;
+    border-radius: 10px;
+}
+
+#imgcontainer{
+    width: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+span.name1{
+    color:#FFBE65;
+}
+
+span.name2{
+    color: #EF342D;
+}
+
+#button1{
+background: #EE342C;
+border-radius: 8px;
+width: 214px;
+height: 53px;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+justify-content: center;
+padding-top: 15px;
+color: white;
+
+
+
+}
+#button2{
+    border-radius: 8px;
+    width: 214px;
+    height: 53px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    justify-content: center;
+    padding-top: 15px;
+    
+    
+    
+    }
+
+#buttons1{
+
+    margin-top: 30px;
+    
+
+}
+#offers{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+#offerimage{
+    width: 110px;height: 115px;
+}
+#cardnoborder{
+    width: 18rem;
+    border: 0px;
+}
+#qualityimage{
+    width: 109px;
+    height: 109px;
+}
+
+#cardnoborder1{
+    width: 18rem;
+    border: 0px;
+    text-align: center;
+    background-color: #F5F5F5;
+    margin-top: 50px;
+}
+
+#qualityimage{
+    align-self:center;
+}
+
+#offercontainer{
+    margin-top: 20px;
+    background-color: #F5F5F5;
+    height: 356px;
+    width: 1500px;
+}
+
