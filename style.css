@@ -2,7 +2,7 @@ body{
     margin: 0px;
 }
 #navbar {
-    height: 40px;
+    height: 60px;
 }
 .text1 {
 
@@ -33,15 +33,13 @@ body{
 }
 
 #headerimg {
-    margin-top: 20px;
-    width: 507px;
-    height: 340px;
+    width: fit-content;
+    height: fit-content;
     border-radius: 10px;
 }
 
 #imgcontainer{
     width: auto;
-    margin-top: 10px;
     border-radius: 10px;
 }
 
@@ -96,14 +94,16 @@ color: white;
     margin-top: 50px;
     margin-left: 60px;
     width: 90%;
-    justify-content: space-evenly
+    justify-content: space-between;
+    padding:10px;
+    border-radius: 10px;
 }
 
 #offerimage{
     width: 110px;height: 115px;
 }
 #cardnoborder{
-    width: 18rem;
+    width: 20rem;
     border: 0px;
 }
 #qualityimage{
@@ -113,10 +113,10 @@ color: white;
 
 #cardnoborder1{
     width: 18rem;
-    border: 0px;
     text-align: center;
     background-color: #F5F5F5;
     margin-top: 50px;
+    border: 0px;
 }
 
 #qualityimage{
@@ -169,9 +169,39 @@ color: white;
 }
 
 #testimonialimg{
+    margin-top: 30px;
+    width: max-content;
+    justify-content: space-evenly;
+    
+
+
+}
+
+#trustedby{
+    height: 295px;
+    background-color: #FFF4F4;
+    width: 100%;
     margin-top: 50px;
-    justify-content: center;
-    z-index: 2;
-    width: 565px;
-    height: 291px;
+    padding-left: 50px;
+}
+#cardnoborder2{
+    border: 0px;
+    background-color: #F5F5F5;
+    margin-top: 50px;
+}
+#trustedbycards{
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#faqcontainer{
+    width: max-content;
+    margin-top: 50px;
+    
+}
+#accordiontest{
+    width: 1000px;
+    height: max-content;
+    border: 0px;
+    margin-top: 30px;
 }
